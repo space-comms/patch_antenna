@@ -29,7 +29,12 @@ This library provides comprehensive tools for designing rectangular patch antenn
 ### Installation
 
 ```bash
-pip install scipy gerber-writer
+pip install patch-antenna-designer
+```
+
+Or install with development dependencies:
+```bash
+pip install patch-antenna-designer[dev]
 ```
 
 ### Basic Usage

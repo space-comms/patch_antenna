@@ -10,7 +10,7 @@ Enhanced by Al-Musbahi - Leeds SpaceComms
 """
 
 __name__ = 'patch_antenna'
-__version__ = '0.1.0'
+__version__ = '1.0.0'
 __owner__ = 'Leeds SpaceComms'
 
 from .designer import (
